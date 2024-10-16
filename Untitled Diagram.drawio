@@ -9,7 +9,7 @@
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" target="SnKN6ZXEYIArN2goFrfV-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="180" as="sourcePoint" />
+            <mxPoint x="340" y="210" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Sales Force" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
