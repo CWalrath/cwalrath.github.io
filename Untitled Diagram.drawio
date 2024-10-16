@@ -4,21 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SnKN6ZXEYIArN2goFrfV-34" value="" style="swimlane;html=1;startSize=20;horizontal=0;gradientColor=none;swimlaneFillColor=#CCFFFF;" vertex="1" parent="1">
-          <mxGeometry x="121.25" y="360" width="800" height="30" as="geometry">
-            <mxRectangle x="210" y="555" width="430" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SnKN6ZXEYIArN2goFrfV-35" value="GVO Scripting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SnKN6ZXEYIArN2goFrfV-34">
-          <mxGeometry x="60" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="IWCR&amp;nbsp;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="110" width="801.25" height="250" as="geometry">
+          <mxGeometry x="120" y="110" width="801.25" height="285" as="geometry">
             <mxRectangle x="120" y="110" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Sales Force" style="swimlane;html=1;startSize=20;horizontal=0;align=right;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="781.25" height="250" as="geometry">
+          <mxGeometry x="20" width="781.25" height="285" as="geometry">
             <mxRectangle x="20" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,7 +48,7 @@
           <mxGeometry x="450" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="NetSuite" style="swimlane;html=1;startSize=20;horizontal=0;align=left;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
-          <mxGeometry y="140" width="781.25" height="110" as="geometry">
+          <mxGeometry y="140" width="781.25" height="145" as="geometry">
             <mxRectangle x="20" y="30" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -76,15 +68,6 @@
         </mxCell>
         <mxCell id="SnKN6ZXEYIArN2goFrfV-8" value="Item Receipt Received" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="360" y="28.75" width="62.5" height="62.5" as="geometry" />
-        </mxCell>
-        <mxCell id="SnKN6ZXEYIArN2goFrfV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="SnKN6ZXEYIArN2goFrfV-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="190" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="160" />
-              <mxPoint x="500" y="160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="SnKN6ZXEYIArN2goFrfV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" target="SnKN6ZXEYIArN2goFrfV-17">
           <mxGeometry relative="1" as="geometry">
@@ -107,6 +90,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SnKN6ZXEYIArN2goFrfV-34" value="" style="swimlane;html=1;startSize=20;horizontal=0;gradientColor=none;swimlaneFillColor=#CCFFFF;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="-18.75" y="110" width="800" height="35" as="geometry">
+            <mxRectangle x="210" y="555" width="430" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnKN6ZXEYIArN2goFrfV-35" value="GVO Scripting &amp;amp; Ozlink" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SnKN6ZXEYIArN2goFrfV-34">
+          <mxGeometry x="35" width="150" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="SnKN6ZXEYIArN2goFrfV-17" value="Item Fulfillment Created (0 Inv items)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="570" y="28.75" width="72.5" height="72.5" as="geometry" />
         </mxCell>
@@ -117,6 +108,15 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="60" as="sourcePoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnKN6ZXEYIArN2goFrfV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="SnKN6ZXEYIArN2goFrfV-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="160" />
+              <mxPoint x="500" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SnKN6ZXEYIArN2goFrfV-22" value="" style="swimlane;html=1;startSize=20;horizontal=0;gradientColor=none;swimlaneFillColor=#CCFFFF;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
