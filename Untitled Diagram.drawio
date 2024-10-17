@@ -113,7 +113,7 @@
         <mxCell id="SnKN6ZXEYIArN2goFrfV-13" value="Transfer Order Status Updated (&lt;i&gt;Trigger Event&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="125" y="110" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XuMH0xvVAwIogkRvEUKZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;" parent="dNxyNK7c78bLwvsdeMH5-21" edge="1" target="SnKN6ZXEYIArN2goFrfV-11">
+        <mxCell id="XuMH0xvVAwIogkRvEUKZ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=1.028;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="dNxyNK7c78bLwvsdeMH5-21" edge="1" target="SnKN6ZXEYIArN2goFrfV-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="489.99" y="103.75" as="targetPoint" />
             <Array as="points">
