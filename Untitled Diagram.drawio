@@ -25,6 +25,18 @@
         <mxCell id="VbYY6vEISr5oXFv7Z-xg-23" value="&lt;u&gt;&lt;b&gt;Feature Program&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="38.5" y="193" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VbYY6vEISr5oXFv7Z-xg-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="221" y="515" as="sourcePoint" />
+            <mxPoint x="221" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbYY6vEISr5oXFv7Z-xg-27" value="&lt;b&gt;&lt;u&gt;Tool Setup:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Install Tool&amp;nbsp;&lt;/li&gt;&lt;li&gt;Configure Tool as requested&lt;/li&gt;&lt;li&gt;Trouble Shoot&lt;/li&gt;&lt;li&gt;Reconfigure Tool&lt;/li&gt;&lt;li&gt;Go Live of Tool&lt;/li&gt;&lt;li&gt;Post Go Live Training&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="11" y="340" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VbYY6vEISr5oXFv7Z-xg-28" value="&lt;b style=&quot;&quot;&gt;&lt;u&gt;Feature Program Hours include:&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Training&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Additional Configuration&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;Consulting Specific to Sync Tool&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="481" y="340" width="179" height="147" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
